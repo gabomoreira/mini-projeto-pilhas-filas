@@ -1,6 +1,6 @@
 # Projeto de C
 
-> Este repositório contém o código para a resolução do projeto de C realizado no curso de graduação em Sistemas de Informação do Instituto Federal de Alagoas, com o objetivo de obtenção da nota parcial para a disciplina de Linguagem de Programação solicitado pelo professor Ivo Calado.
+> Este repositório contém o código para a resolução do mini projeto de Pilhas e Filas realizado no curso de graduação em Sistemas de Informação do Instituto Federal de Alagoas, com o objetivo de obtenção da nota parcial para a disciplina de Estrutura de Dados solicitado pelo professor Ricardo Nunes.
 
 ## 🎯 Objetivo
 
